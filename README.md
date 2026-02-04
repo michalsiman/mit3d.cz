@@ -1,2 +1,2 @@
 # mit3d.cz
-webová prezentace
+webová prezentace, zprovoznen automaticky deploy na hosting server
