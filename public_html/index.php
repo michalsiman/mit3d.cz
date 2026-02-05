@@ -64,10 +64,26 @@
         }
     </style>
 <body>
-<h3>mit3d.cz</h3>
-<p>zakázkový 3D tisk</p>
-<p>123456789</p>
-<p>michal(zavinac)mit3d(tecka)cz</p>
+    <header>
+        <div class="container">
+            <h1>mit3d.cz</h1>
+        </div>
+    </header>
+
+    <main class="container">
+        <section>
+            <h2>mit3d.cz</h2>
+            <p>Michal Šiman</p>
+        </section>
+
+        <div class="card-grid">
+            <div class="card"><h3>3D tisk</h3><p>Zakázkový multimateriálový tisk.</p></div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Michal Šiman - mit3d.cz :: Všechna práva vyhrazena.</p>
+    </footer>
 </body>
 </html>
 
