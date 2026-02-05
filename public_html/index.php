@@ -72,7 +72,7 @@
 
     <main class="container">
         <div class="card-grid">
-            <div class="card"><h3>3D tisk</h3><p>Zakázkový multimateriálový tisk.</p></div>
+            <div class="card"><h3>3D tisk</h3><p>tisk.</p></div>
         </div>
     </main>
 
