@@ -71,11 +71,6 @@
     </header>
 
     <main class="container">
-        <section>
-            <h2>mit3d.cz</h2>
-            <p>Michal Šiman</p>
-        </section>
-
         <div class="card-grid">
             <div class="card"><h3>3D tisk</h3><p>Zakázkový multimateriálový tisk.</p></div>
         </div>
