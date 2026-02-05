@@ -67,7 +67,7 @@
 <h3>mit3d.cz</h3>
 <p>zakázkový 3D tisk</p>
 <p>123456789</p>
-<p>michal@mit3d.cz</p>
+<p>michal(zavinac)mit3d(tecka)cz</p>
 </body>
 </html>
 
